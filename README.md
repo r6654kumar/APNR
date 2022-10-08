@@ -12,5 +12,4 @@ Automatic number-plate recognition(Python Project)
 
 # Screenshot
 
-![](Screenshots/Screenshot 2022-09-28 203747.png)
-
+![](Screenshots/Output.png)
