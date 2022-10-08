@@ -9,3 +9,8 @@ Automatic number-plate recognition(Python Project)
 ->numpy
 ->imutils
 -> easyocr
+
+# Screenshot
+
+![](Screenshots/Screenshot 2022-09-28 203747.png)
+
